@@ -1,0 +1,6 @@
+{
+  "name": "APP Tempos e Métodos",
+  "description": "Sistema industrial de cronoanálise, estudo de tempos e métodos, cálculo de tempo padrão e capacidade produtiva.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
